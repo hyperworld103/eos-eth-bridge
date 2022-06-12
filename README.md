@@ -1,4 +1,4 @@
-# Alien Teleport
+# EOS - ETH BRIDGE
 
 Contracts and tools to create a bridge between WAX tokens and an ERC-20 counterpart.
 
